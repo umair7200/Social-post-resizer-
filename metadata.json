@@ -1,0 +1,7 @@
+{
+  "name": "SocialMedia AI Resizer",
+  "description": "A powerful AI-driven tool to resize and adapt your designs for various social media platforms using Gemini 2.5 generative imaging and Gemini 3 text generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
